@@ -1,8 +1,53 @@
-# React + Vite
+# TestLine Assignment - Interactive Quiz Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview
+This is an interactive Quiz Web Application built on React . The application presents users with a series of questions, tracks their answers, and provides immediate feedback. It features a clean, user-friendly interface and implements modern web development practices.
 
-Currently, two official plugins are available:
+## Features
+- Dynamic quiz interface with multiple-choice questions
+- Real-time feedback on answer selection
+- Score tracking system
+- Clean and intuitive user interface
+- Progress tracking through questions
+  
+## Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AnuragKumar007/TestLine-Assignment.git
+   cd TestLine-Assignment
+   ```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Run the development server:
+   ```bash
+   npm run dev
+   ```
+
+4. Open your browser and navigate to `http://localhost:5173`
+
+## Technologies Used
+- React.js
+- Vite
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind
+- npm (Package Manager)
+
+## Screenshots and Demo
+### Screenshots
+![image](https://github.com/user-attachments/assets/9496c90d-b9de-4220-a980-e3fd5013ff9f)
+![image](https://github.com/user-attachments/assets/63164216-d707-483d-b308-5404dcc979d9)
+![image](https://github.com/user-attachments/assets/f61aba3b-616f-4bcf-bebb-b71304984d59)
+
+### Video Walkthrough
+[Place your video walkthrough link here]
+<!-- [Watch the demo video](link-to-video) -->
+![video](https://drive.google.com/file/d/1Dkr1MLH4dEHcXI1MzFoQYn5aQc3dF2NW/view?usp=sharing)
+
+## License
+This project is created as part of an assignment and is intended for demonstration purposes.
