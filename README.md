@@ -40,14 +40,17 @@ This is an interactive Quiz Web Application built on React . The application pre
 
 ## Screenshots and Demo
 ### Screenshots
-![image](https://github.com/user-attachments/assets/9496c90d-b9de-4220-a980-e3fd5013ff9f)
-![image](https://github.com/user-attachments/assets/63164216-d707-483d-b308-5404dcc979d9)
+![image](https://github.com/user-attachments/assets/9b3834b3-b84e-4594-b8c3-3442005f56ef)
 ![image](https://github.com/user-attachments/assets/f61aba3b-616f-4bcf-bebb-b71304984d59)
+![image](https://github.com/user-attachments/assets/441e5371-da43-4286-901b-745d408e9165)
+![image](https://github.com/user-attachments/assets/d9856a7a-d692-4117-9109-5bc5b7cc6a6d)
+![image](https://github.com/user-attachments/assets/c8c8da6b-f0cb-401f-b6a0-581c7b1d77ea)
 
 ### Video Walkthrough
-[Place your video walkthrough link here]
+[Video walkthrough link -: ]
 <!-- [Watch the demo video](link-to-video) -->
-![video](https://drive.google.com/file/d/1Dkr1MLH4dEHcXI1MzFoQYn5aQc3dF2NW/view?usp=sharing)
+https://drive.google.com/file/d/1Dkr1MLH4dEHcXI1MzFoQYn5aQc3dF2NW/view?usp=sharing
+
 
 ## License
 This project is created as part of an assignment and is intended for demonstration purposes.
